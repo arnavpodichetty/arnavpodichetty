@@ -52,4 +52,6 @@ A calculator puzzle game where the keypad doesn't do what it says.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavpodichetty&bg_color=0d1117&color=c9d1d9&line=70a5fd&point=c9d1d9&area=true&area_color=70a5fd&title_color=70a5fd&hide_border=true&custom_title=Contribution%20Reel&radius=8&height=300" width="100%" alt="Contribution graph" />
 
+<img src="https://raw.githubusercontent.com/arnavpodichetty/arnavpodichetty/output/snake.svg" width="100%" alt="Contribution snake" />
+
 </div>
