@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:1a1b27,100:70a5fd&text=Arnav%20Podichetty&fontColor=c9d1d9&fontSize=44&animation=fadeIn&desc=Data%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software&descSize=17&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:1a1b27,100:70a5fd&text=ARNAV%20PODICHETTY&fontColor=c9d1d9&fontSize=44&animation=fadeIn&desc=Data%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software&descSize=17&descAlignY=75" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+%2B+Cognitive+Science+%40+UC+Berkeley;Building+things+I+wish+existed" alt="Typing animation" />
 
@@ -12,27 +12,21 @@
 
 **[Cross-Media Recommendation Engine](https://github.com/arnavpodichetty/cross-media-recommendation-engine)**
 Matches films, books, anime, games, and music by tone and mood rather than genre tags. Pulls from five APIs, builds LLM taste profiles, runs pgvector similarity search, and returns a plain-language reason for every recommendation.
-`Python` `FastAPI` `PostgreSQL` `pgvector` `sentence-transformers` `Ollama`
 
 **[Masquerade](https://github.com/arnavpodichetty/masq)**
 Spyfall-style social deduction game with 20+ role categories and real-time lobbies. Playtested across five groups; App Store release in progress.
-`Swift` `SwiftUI`
 
 **[Genius Blurb](https://github.com/arnavpodichetty/genius-blurb)**
 Syncs Genius annotations to live Spotify playback, matching lyrics to the current track with word-overlap scoring.
-`Python` `Flask` `Spotify API` `Genius API`
 
 **[Card Game Catalog](https://github.com/arnavpodichetty/card-game-catalog)**
 15+ party games with join-code lobbies and no sign-ups required.
-`JavaScript` `React` `Node.js`
 
 **[QR Scanner](https://github.com/arnavpodichetty/QRScanner)**
 macOS menu-bar utility that decodes QR codes from a screenshot, paste, or file in one click.
-`Swift` `SwiftUI`
 
 **[Claculator](https://github.com/arnavpodichetty/Claculator)**
 A calculator puzzle game where the keypad doesn't do what it says.
-`Swift`
 
 ---
 
