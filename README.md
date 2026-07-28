@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:1a1b27,100:70a5fd&text=ARNAV%20PODICHETTY&fontColor=c9d1d9&fontSize=44&animation=fadeIn&desc=Data%20%C2%B7%20Machine%20Learning%20%C2%B7%20Software&descSize=17&descAlignY=75" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3500&pause=800&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+%2B+Cognitive+Science+%40+UC+Berkeley;Building+things+I+wish+existed" alt="Typing animation" />
+<img src="./header.svg" width="100%" alt="Arnav Podichetty — Data · Machine Learning · Software"/>
 
 </div>
 
