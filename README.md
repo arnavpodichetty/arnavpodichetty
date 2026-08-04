@@ -11,7 +11,7 @@
 **[Cross-Media Recommendation Engine](https://github.com/arnavpodichetty/cross-media-recommendation-engine)**
 Matches films, books, anime, games, and music by tone and mood rather than genre tags. Pulls from five APIs, builds LLM taste profiles, runs pgvector similarity search, and returns a plain-language reason for every recommendation.
 
-**[Masquerade](https://github.com/arnavpodichetty/masq)**
+**[Masq](https://github.com/arnavpodichetty/masq)**
 Spyfall-style social deduction game with 20+ role categories and real-time lobbies. Playtested across five groups; App Store release in progress.
 
 **[Genius Blurb](https://github.com/arnavpodichetty/genius-blurb)**
