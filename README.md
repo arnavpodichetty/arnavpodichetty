@@ -2,6 +2,8 @@
 
 <img src="./header.svg" width="100%" alt="Arnav Podichetty — Data · Machine Learning · Software"/>
 
+<a href="https://arnavpodichetty.com"><img src="https://img.shields.io/badge/Website-arnavpodichetty.com-70a5fd?style=flat-square&logo=googlechrome&logoColor=white" alt="arnavpodichetty.com"/></a>
+
 </div>
 
 ---
@@ -58,6 +60,6 @@ A calculator puzzle game where the keypad doesn't do what it says.
 
 <div align="center">
 
-Arnav Podichetty
+Arnav Podichetty · <a href="https://arnavpodichetty.com">arnavpodichetty.com</a>
 
 </div>
