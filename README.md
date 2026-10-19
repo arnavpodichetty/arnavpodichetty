@@ -5,12 +5,22 @@
 <a href="https://arnavpodichetty.com"><img src="https://img.shields.io/badge/Website-arnavpodichetty.com-70a5fd?style=flat-square&logo=googlechrome&logoColor=white" alt="arnavpodichetty.com"/></a>
 <a href="https://www.linkedin.com/in/arnav-podichetty"><img src="https://img.shields.io/badge/LinkedIn-arnav--podichetty-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br/><br/>
-
-Data Science + Cognitive Science @ UC Berkeley, minor in Education.<br/>
-I build things I wish existed: ML pipelines, macOS apps, browser extensions and games.
-
 </div>
+
+---
+
+## Projects
+
+| Project | What it does | Built with | Links |
+|---|---|---|---|
+| **[Masq](https://github.com/arnavpodichetty/masq)** | Pass-and-play social deduction party game for one phone and a group of friends, with Role, Word and Duel modes and custom categories. | React · JavaScript | [Play](https://masq.games) |
+| **[getmeajobpls](https://github.com/arnavpodichetty/getmeajobpls)** | Chrome extension that autofills job applications on Greenhouse, Lever, Ashby, Workday and more, remembers custom answers, and tailors your resume to a posting. | TypeScript · Chrome Extension | |
+| **[Shoegazer](https://github.com/arnavpodichetty/shoegazer)** | Web app that turns any song into a shoegazed version of it, with sliders for detune, fuzz, reverb and more, all in the browser. | JavaScript · Web Audio | [Use it](https://arnavpodichetty.github.io/shoegazer/) |
+| **[Cross-Media Recommendation Engine](https://github.com/arnavpodichetty/cross-media-recommendation-engine)** | Enter a favourite in one medium and get recommendations across movies, TV, books, anime, games and music, ranked using LLM-built profiles and five external APIs. | Python · FastAPI · PostgreSQL · pgvector | |
+| **[Genius Blurb](https://github.com/arnavpodichetty/genius-blurb)** | Spicetify extension that shows Genius song meanings, credits and live-synced lyric annotations inside Spotify. | JavaScript · Genius API · Spicetify | |
+| **[QR Scanner](https://github.com/arnavpodichetty/QRScanner)** | macOS menu bar app that reads a QR code from a screenshot or image and gives you its link. | Swift · Vision | [Download](https://github.com/arnavpodichetty/QRScanner/releases) |
+
+<sub>More on <a href="https://arnavpodichetty.com">arnavpodichetty.com</a>.</sub>
 
 ---
 
